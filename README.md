@@ -7,7 +7,7 @@
 
 Uma simulação visual realista do Sistema Solar desenvolvida em Python com Pygame, representando os movimentos planetários com precisão orbital e detalhes visuais impressionantes.
 
-![Sistema Solar](https://via.placeholder.com/800x400/0d1117/ffffff?text=Simulação+Orbital+do+Sistema+Solar)
+![Sistema Solar](/images/solar_system.png)
 
 ## ✨ Características Principais
 
